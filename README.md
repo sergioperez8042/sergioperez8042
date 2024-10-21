@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@sergioperez8042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sergioperez8042" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/sergio-carlos-rodríguez-perez-95b6a7231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-carlos-rodr%c3%adguez-perez-95b6a7231" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sergio-carlos-rodríguez-perez-95b6a7231](https://www.linkedin.com/in/sergio-carlos-rodr%C3%ADguez-perez-95b6a7231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-carlos-rodr%c3%adguez-perez-95b6a7231" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
