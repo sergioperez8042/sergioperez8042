@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" fill="none" role="img" aria-label="Sergio's Glass-S character">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a1b22"/>
+      <stop offset="1" stop-color="#0a0a0d"/>
+    </linearGradient>
+    <linearGradient id="cromo" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c5cad4"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c5cad4" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0a0a0d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0L0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background subtle -->
+  <rect width="320" height="320" fill="url(#bg)" rx="32"/>
+  <rect width="320" height="320" fill="url(#grid)" rx="32"/>
+  <circle cx="240" cy="80" r="100" fill="url(#orb)"/>
+  <circle cx="80" cy="240" r="100" fill="url(#orb)"/>
+
+  <!-- Decorative particles (like the cat had stars/sparkles) -->
+  <g fill="#c5cad4" opacity="0.7">
+    <!-- four-point sparkles -->
+    <path d="M50 60 L52 56 L54 60 L58 62 L54 64 L52 68 L50 64 L46 62 Z"/>
+    <path d="M270 50 L272 46 L274 50 L278 52 L274 54 L272 58 L270 54 L266 52 Z"/>
+    <path d="M280 230 L282 226 L284 230 L288 232 L284 234 L282 238 L280 234 L276 232 Z"/>
+    <path d="M40 200 L42 196 L44 200 L48 202 L44 204 L42 208 L40 204 L36 202 Z"/>
+    <path d="M260 280 L262 276 L264 280 L268 282 L264 284 L262 288 L260 284 L256 282 Z"/>
+  </g>
+
+  <!-- Small dots / particles -->
+  <g fill="#c5cad4" opacity="0.5">
+    <circle cx="70" cy="100" r="2"/>
+    <circle cx="250" cy="140" r="1.5"/>
+    <circle cx="60" cy="180" r="1.5"/>
+    <circle cx="280" cy="180" r="2"/>
+    <circle cx="100" cy="270" r="1.5"/>
+    <circle cx="220" cy="260" r="1.5"/>
+    <circle cx="160" cy="50" r="1.5"/>
+  </g>
+
+  <!-- Outline ring glow -->
+  <circle cx="160" cy="160" r="110" fill="none" stroke="#c5cad4" stroke-opacity="0.06" stroke-width="1"/>
+  <circle cx="160" cy="160" r="92" fill="none" stroke="#c5cad4" stroke-opacity="0.10" stroke-width="1"/>
+
+  <!-- Glass tile platform (like the favicon, scaled) -->
+  <g transform="translate(96, 96)">
+    <rect width="128" height="128" rx="28" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1"/>
+
+    <!-- S monogram, scaled from 64-viewbox -->
+    <g transform="scale(2)" filter="url(#glow)">
+      <path d="M46 19 Q46 12 39 12 L25 12 Q17 12 17 20 Q17 28 25 28 L39 28 Q47 28 47 36 Q47 44 39 44 L25 44 Q17 44 17 51"
+            stroke="url(#cromo)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <circle cx="50" cy="14" r="2.4" fill="#c5cad4"/>
+    </g>
+  </g>
+
+  <!-- Tiny chevrons / brackets to suggest "developer" -->
+  <g fill="none" stroke="#c5cad4" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="30,150 22,160 30,170"/>
+    <polyline points="290,150 298,160 290,170"/>
+  </g>
+
+  <!-- Underline tagline dot trail -->
+  <g fill="#c5cad4" opacity="0.6">
+    <circle cx="140" cy="290" r="2"/>
+    <circle cx="155" cy="290" r="2"/>
+    <circle cx="170" cy="290" r="2"/>
+    <circle cx="185" cy="290" r="2"/>
+  </g>
+</svg>
