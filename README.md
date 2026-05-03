@@ -8,33 +8,18 @@
 <tr>
 <td width="62%" valign="top">
 
-```bash
-sergio@portfolio:~$ cat ./bio.md
-```
+## About
 
-```text
-> Frontend Developer & Project Manager
-> @ ITConsulting Global · Burgos, Spain
+**Frontend Developer & Project Manager** at [ITConsulting Global](https://www.itc.services/) — lidero equipos de frontend en proyectos enterprise: e-commerce, dashboards de operaciones, integraciones Odoo y portales corporativos.
 
-> Lidero equipos de frontend en proyectos
-> enterprise: e-commerce, dashboards de
-> operaciones, integraciones Odoo y portales
-> corporativos.
+Construyo producto que escala — del prototipo a producción.
 
-> Construyo producto que escala — del
-> prototipo a producción.
-```
+- Migrando stacks legacy a Next.js 16 + RSC + Tailwind v4 — `TTI 4.2s → 1.3s`, `Lighthouse 98`
+- React Native y Flutter para mobile cross-platform
+- Integraciones con Odoo y backends enterprise vía REST APIs
+- Disponible para proyectos seleccionados a partir de **Q2 2026**
 
-```bash
-sergio@portfolio:~$ cat ./highlights.txt
-```
-
-```text
-[*] TTI 4.2s → 1.3s · Lighthouse 98 (Next.js 16 + RSC + Tailwind v4)
-[*] React Native + Flutter para mobile cross-platform
-[*] Integraciones Odoo + REST APIs con backends enterprise
-[*] Available for selected projects · Q2 2026
-```
+**5+ años** · **30+ proyectos** · ES · EAU · LATAM · Burgos, España
 
 </td>
 <td width="38%" valign="middle" align="center">
@@ -44,10 +29,6 @@ sergio@portfolio:~$ cat ./highlights.txt
 </td>
 </tr>
 </table>
-
-```bash
-sergio@portfolio:~$ links --list
-```
 
 <div align="center">
 
@@ -60,9 +41,7 @@ sergio@portfolio:~$ links --list
 
 ---
 
-```bash
-sergio@portfolio:~$ stack --list
-```
+## Stack
 
 <div align="center">
 
@@ -73,9 +52,7 @@ sergio@portfolio:~$ stack --list
 
 ---
 
-```bash
-sergio@portfolio:~$ ls ./projects --featured
-```
+## Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -86,9 +63,7 @@ sergio@portfolio:~$ ls ./projects --featured
 
 ---
 
-```bash
-sergio@portfolio:~$ history --career
-```
+## Career
 
 ```text
 2024-10  ITConsulting Global    Frontend Developer & PM     Burgos, Remote
@@ -102,23 +77,9 @@ sergio@portfolio:~$ history --career
 
 <div align="center">
 
-```bash
-sergio@portfolio:~$ git log --oneline --activity
-```
-
 <a href="https://github.com/sergioperez8042">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioperez8042&theme=transparent&hide_border=true&ring=c5cad4&fire=c5cad4&currStreakLabel=c5cad4&sideLabels=8a8a92&dates=8a8a92" alt="GitHub streak stats" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-sergio@portfolio:~$ contact --send
-```
 
 <sub>Construyo producto que escala — en producción. Hablemos en <a href="https://sergiorp.com#contact">sergiorp.com</a>.</sub>
 
