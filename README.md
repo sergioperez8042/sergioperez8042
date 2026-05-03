@@ -2,10 +2,35 @@
 
 <img src="https://sergiorp.com/linkedin/banner.png" alt="Sergio Rodríguez · Frontend Developer & Project Manager" width="100%" />
 
-### Frontend Developer & Project Manager
+</div>
 
-Construyo producto que escala — del prototipo a producción.<br/>
-**5+ años** · **30+ proyectos** · ES · EAU · LATAM
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## About me
+
+**Frontend Developer & Project Manager** at [ITConsulting Global](https://www.itc.services/) — lidero equipos de frontend en proyectos enterprise: e-commerce, dashboards de operaciones, integraciones Odoo y portales corporativos.
+
+Construyo producto que escala — del prototipo a producción.
+
+- Migrando stacks legacy a Next.js 16 + RSC + Tailwind v4 — `TTI 4.2s → 1.3s`, `Lighthouse 98`
+- React Native y Flutter para extender frontends a mobile cross-platform
+- Integraciones con Odoo y backends enterprise vía REST APIs
+- Disponible para proyectos seleccionados a partir de **Q2 2026**
+
+**5+ años** · **30+ proyectos** · ES · EAU · LATAM · Burgos, España
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/glass-s-character.svg" alt="Glass-S character" width="280" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <a href="https://sergiorp.com"><img src="https://img.shields.io/badge/Portfolio-sergiorp.com-c5cad4?style=for-the-badge&labelColor=0a0a0d" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sergio-rp-dev"><img src="https://img.shields.io/badge/LinkedIn-sergio--rp--dev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,20 +41,7 @@ Construyo producto que escala — del prototipo a producción.<br/>
 
 ---
 
-### About
-
-Frontend Developer & Project Manager en **[ITConsulting Global](https://www.itc.services/)** — lidero equipos de frontend en proyectos enterprise: e-commerce, dashboards de operaciones, integraciones Odoo y portales corporativos.
-
-- Migrando stacks legacy a Next.js 16 + RSC + Tailwind v4 — `TTI 4.2s → 1.3s`, `Lighthouse 98`
-- React Native y Flutter para extender frontends a mobile cross-platform
-- Integraciones con Odoo y backends enterprise vía REST APIs
-- Disponible para proyectos seleccionados a partir de **Q2 2026**
-
-Burgos, España · trabajando con equipos en ES · EAU · LATAM.
-
----
-
-### Stack
+## Stack
 
 <div align="center">
 
@@ -40,7 +52,7 @@ Burgos, España · trabajando con equipos en ES · EAU · LATAM.
 
 ---
 
-### Featured projects
+## Featured projects
 
 | Proyecto | Lo que hice | Stack |
 |---|---|---|
@@ -51,7 +63,7 @@ Burgos, España · trabajando con equipos en ES · EAU · LATAM.
 
 ---
 
-### Career timeline
+## Career timeline
 
 ```text
 ITConsulting Global    Frontend Developer & PM     Oct 2024 — present  · Burgos · Remote
@@ -65,7 +77,7 @@ Countigo SRL           Frontend Developer          Jan 2020 — Dec 2022 · La H
 
 <div align="center">
 
-### GitHub activity
+## GitHub activity
 
 <a href="https://github.com/sergioperez8042">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioperez8042&theme=transparent&hide_border=true&ring=c5cad4&fire=c5cad4&currStreakLabel=c5cad4&sideLabels=8a8a92&dates=8a8a92" alt="GitHub streak stats" />
