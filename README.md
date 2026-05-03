@@ -41,14 +41,54 @@ Construyo producto que escala — del prototipo a producción.
 
 ---
 
-## Stack
+## Skills & Technologies
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-[![Web](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,nodejs,python,vercel)](https://skillicons.dev)
-[![Mobile & Tools](https://skillicons.dev/icons?i=reactnative,flutter,dart,supabase,postgresql,docker,git,figma)](https://skillicons.dev)
+### Frontend Web
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Next.js-c5cad4?style=flat-square&logo=nextdotjs&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/React-c5cad4?style=flat-square&logo=react&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/TypeScript-c5cad4?style=flat-square&logo=typescript&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Tailwind-c5cad4?style=flat-square&logo=tailwindcss&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Three.js-c5cad4?style=flat-square&logo=threedotjs&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Framer_Motion-c5cad4?style=flat-square&logo=framer&logoColor=0a0a0d&labelColor=0a0a0d" />
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### Mobile
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-c5cad4?style=flat-square&logo=react&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Flutter-c5cad4?style=flat-square&logo=flutter&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Dart-c5cad4?style=flat-square&logo=dart&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Expo-c5cad4?style=flat-square&logo=expo&logoColor=0a0a0d&labelColor=0a0a0d" />
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### Backend & Platform
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-c5cad4?style=flat-square&logo=nodedotjs&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Python-c5cad4?style=flat-square&logo=python&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Odoo-c5cad4?style=flat-square&logo=odoo&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Supabase-c5cad4?style=flat-square&logo=supabase&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/PostgreSQL-c5cad4?style=flat-square&logo=postgresql&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Vercel-c5cad4?style=flat-square&logo=vercel&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Docker-c5cad4?style=flat-square&logo=docker&logoColor=0a0a0d&labelColor=0a0a0d" />
+<img src="https://img.shields.io/badge/Git-c5cad4?style=flat-square&logo=git&logoColor=0a0a0d&labelColor=0a0a0d" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,15 +103,75 @@ Construyo producto que escala — del prototipo a producción.
 
 ---
 
-## Career
+## Experience
 
-```text
-2024-10  ITConsulting Global    Frontend Developer & PM     Burgos, Remote
-2023-08  Octupus Technologies   Frontend Web Developer      Spain
-2022-10  Soaint                 React Native Developer      Spain
-2021-06  MOME                   Software Developer          Madrid, Remote
-2020-01  Countigo SRL           Frontend Developer          La Habana, Cuba
-```
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/year-2024.svg" alt="2024" width="80" />
+</td>
+<td valign="top">
+
+#### Frontend Developer & Project Manager
+**ITConsulting Global** · Burgos, Remote · Oct 2024 — present
+
+Lidero equipos de frontend en proyectos enterprise: e-commerce, dashboards, integraciones Odoo y portales corporativos. Migración a Next.js 16 + RSC + Tailwind v4 con `TTI 4.2s → 1.3s` y `Lighthouse 98`. Roadmap quarterly + entrega ágil con equipos en ES, EAU y LATAM.
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/year-2023.svg" alt="2023" width="80" />
+</td>
+<td valign="top">
+
+#### Frontend Web Developer
+**Octupus Technologies** · Spain · Aug 2023 — Oct 2024
+
+Plataformas e-commerce y sistemas de gestión con Next.js + Odoo. Catálogos, carritos y pasarelas de pago con SEO técnico para mejorar conversión. Tipado estricto con TypeScript y testing en features críticas.
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/year-2022.svg" alt="2022" width="80" />
+</td>
+<td valign="top">
+
+#### React Native Developer
+**Soaint** · Spain · Oct 2022 — Apr 2023
+
+Refactorización integral de la app móvil interna: navegación, accesibilidad y rediseño de componentes core. Refactor de la capa de navegación con React Navigation v6 — `TTI mobile −38%`. Audits de accesibilidad WCAG AA en todo el flujo crítico.
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/year-2021.svg" alt="2021" width="80" />
+</td>
+<td valign="top">
+
+#### Software Developer
+**MOME** · Madrid, Remote · Jun 2021 — Jul 2023
+
+Plataforma de venta publicitaria — frontend que prioriza la eficiencia del operador. Sistema de comunicación interna que redujo tiempo de gestión de anuncios. Funcionalidades clave con Next.js, React, TypeScript y Styled Components.
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/year-2020.svg" alt="2020" width="80" />
+</td>
+<td valign="top">
+
+#### Frontend Developer
+**Countigo SRL** · La Habana, Cuba · Jan 2020 — Dec 2022
+
+Frontend Developer en una pyme cubana de software. Web con React como foco principal: SPAs y portales corporativos, integraciones con APIs REST, gestión de estado y componentes reutilizables. Un proyecto de React Native (iOS/Android) y un proyecto de Flutter para mobile cross-platform.
+
+</td>
+</tr>
+</table>
 
 ---
 
