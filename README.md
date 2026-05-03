@@ -1,90 +1,87 @@
-<h1 align="center">Hi 👋, I'm Sergio Carlos Rodríguez Pérez</h1>
-<h3 align="center">Passionate Frontend Developer from Spain, building high-performance, accessible web applications. Committed to open-source and engaged in the developer community.</h3>
+<div align="center">
 
-- 🔭 I’m currently looking for new job opportunities in Frontend Development
+<img src="https://sergiorp.com/linkedin/banner.png" alt="Sergio Rodríguez · Frontend Developer & Project Manager" width="100%" />
 
-- 💬 Ask me about **React, Next.js**
+### Frontend Developer & Project Manager
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@sergioperez8042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@sergioperez8042" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sergio-carlos-rodríguez-perez-95b6a7231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-carlos-rodríguez-perez-95b6a7231" height="30" width="40" /></a>
-</p>
+Construyo producto que escala — del prototipo a producción.<br/>
+**5+ años** · **30+ proyectos** · 🇪🇸 ES · 🇦🇪 EAU · 🌎 LATAM
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-    </a> 
-    <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-    </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-    </a> 
-</p>
+<a href="https://sergiorp.com"><img src="https://img.shields.io/badge/Portfolio-sergiorp.com-0a0a0d?style=for-the-badge&labelColor=0a0a0d&color=c5cad4" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/sergio-rp-dev"><img src="https://img.shields.io/badge/LinkedIn-sergio--rp--dev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://dev.to/sergioperez8042"><img src="https://img.shields.io/badge/Dev.to-sergioperez8042-0a0a0d?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+<a href="mailto:8042sergi@gmail.com"><img src="https://img.shields.io/badge/Email-8042sergi%40gmail.com-c5cad4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0d" alt="Email" /></a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioperez8042&show_icons=true&locale=en&layout=compact" alt="sergioperez8042" /></p>
+</div>
+
+---
+
+### About
+
+Frontend Developer & Project Manager en **[ITConsulting Global](https://www.itc.services/)** — lidero equipos de frontend en proyectos enterprise: e-commerce, dashboards de operaciones, integraciones Odoo y portales corporativos.
+
+- 🏗 Migrando stacks legacy a Next.js 16 + RSC + Tailwind v4 — `TTI 4.2s → 1.3s`, `Lighthouse 98`
+- 📱 React Native y Flutter para extender frontends a mobile cross-platform
+- 🧩 Integraciones con Odoo y backends enterprise vía REST APIs
+- 🎯 Disponible para proyectos seleccionados a partir de **Q2 2026**
+
+📍 Burgos, España · trabajando con equipos en 🇪🇸 🇦🇪 🌎
+
+---
+
+### Stack
+
+<div align="center">
+
+[![Web](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,nodejs,python,vercel)](https://skillicons.dev)
+[![Mobile & Tools](https://skillicons.dev/icons?i=reactnative,flutter,dart,supabase,postgresql,docker,git,figma)](https://skillicons.dev)
+
+</div>
+
+---
+
+### Featured projects
+
+| Proyecto | Lo que hice | Stack |
+|---|---|---|
+| 🧴 **[Sophia Cosmetic](https://sophia-cosmetic.vercel.app)** | E-commerce con `+118%` conversión en checkout, `LCP 1.2s`, marketing self-served | Next.js · Sanity · Stripe |
+| 🏢 **[GDC 2026](https://gdc2026-two.vercel.app)** | Sitio corporativo bilingüe ES/EN con i18n por ruta | Next.js 16 · Tailwind v4 |
+| 🧱 **Drizoro** | Sitio corporativo química de la construcción, RSC + animaciones sutiles | Next.js · Tailwind · RSC |
+| 🌐 **[sergiorp.com](https://sergiorp.com)** | Mi portfolio: Apple-cristal, Three.js, Glass-S logo system | Next.js 16 · Three.js · Tailwind v4 |
+
+---
+
+### Career timeline
+
+```text
+ITConsulting Global    Frontend Developer & PM     Oct 2024 — present  · Burgos · Remote
+Octupus Technologies   Frontend Web Developer      Aug 2023 — Oct 2024 · Spain
+MOME                   Software Developer          Jun 2021 — Jul 2023 · Madrid · Remote
+Soaint                 React Native Developer      Oct 2022 — Apr 2023 · Spain
+Countigo SRL           Frontend Developer          Jan 2020 — Dec 2022 · La Habana, Cuba
+```
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<a href="https://github.com/sergioperez8042">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sergioperez8042&show_icons=true&theme=transparent&hide_border=true&title_color=c5cad4&icon_color=c5cad4&text_color=8a8a92&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioperez8042&layout=compact&theme=transparent&hide_border=true&title_color=c5cad4&text_color=8a8a92&langs_count=8" />
+</a>
+
+<a href="https://github.com/sergioperez8042">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioperez8042&theme=transparent&hide_border=true&ring=c5cad4&fire=c5cad4&currStreakLabel=c5cad4&sideLabels=8a8a92&dates=8a8a92" alt="streak" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Construyo producto que escala — en producción. Hablemos en <a href="https://sergiorp.com#contact">sergiorp.com</a>.</sub>
+
+</div>
