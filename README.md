@@ -24,7 +24,7 @@ Construyo producto que escala — del prototipo a producción.
 </td>
 <td width="38%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/glass-s-character.svg" alt="Glass-S character" width="260" />
+<img src="https://raw.githubusercontent.com/sergioperez8042/sergioperez8042/main/glass-s-dots.svg" alt="Glass-S — dot matrix" width="280" />
 
 </td>
 </tr>
