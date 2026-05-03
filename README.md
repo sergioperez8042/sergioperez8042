@@ -5,11 +5,11 @@
 ### Frontend Developer & Project Manager
 
 Construyo producto que escala — del prototipo a producción.<br/>
-**5+ años** · **30+ proyectos** · 🇪🇸 ES · 🇦🇪 EAU · 🌎 LATAM
+**5+ años** · **30+ proyectos** · ES · EAU · LATAM
 
-<a href="https://sergiorp.com"><img src="https://img.shields.io/badge/Portfolio-sergiorp.com-0a0a0d?style=for-the-badge&labelColor=0a0a0d&color=c5cad4" alt="Portfolio" /></a>
+<a href="https://sergiorp.com"><img src="https://img.shields.io/badge/Portfolio-sergiorp.com-c5cad4?style=for-the-badge&labelColor=0a0a0d" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/sergio-rp-dev"><img src="https://img.shields.io/badge/LinkedIn-sergio--rp--dev-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://dev.to/sergioperez8042"><img src="https://img.shields.io/badge/Dev.to-sergioperez8042-0a0a0d?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+<a href="https://dev.to/sergioperez8042"><img src="https://img.shields.io/badge/Dev.to-sergioperez8042-c5cad4?style=for-the-badge&logo=devdotto&logoColor=0a0a0d&labelColor=0a0a0d" alt="Dev.to" /></a>
 <a href="mailto:8042sergi@gmail.com"><img src="https://img.shields.io/badge/Email-8042sergi%40gmail.com-c5cad4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0d" alt="Email" /></a>
 
 </div>
@@ -20,12 +20,12 @@ Construyo producto que escala — del prototipo a producción.<br/>
 
 Frontend Developer & Project Manager en **[ITConsulting Global](https://www.itc.services/)** — lidero equipos de frontend en proyectos enterprise: e-commerce, dashboards de operaciones, integraciones Odoo y portales corporativos.
 
-- 🏗 Migrando stacks legacy a Next.js 16 + RSC + Tailwind v4 — `TTI 4.2s → 1.3s`, `Lighthouse 98`
-- 📱 React Native y Flutter para extender frontends a mobile cross-platform
-- 🧩 Integraciones con Odoo y backends enterprise vía REST APIs
-- 🎯 Disponible para proyectos seleccionados a partir de **Q2 2026**
+- Migrando stacks legacy a Next.js 16 + RSC + Tailwind v4 — `TTI 4.2s → 1.3s`, `Lighthouse 98`
+- React Native y Flutter para extender frontends a mobile cross-platform
+- Integraciones con Odoo y backends enterprise vía REST APIs
+- Disponible para proyectos seleccionados a partir de **Q2 2026**
 
-📍 Burgos, España · trabajando con equipos en 🇪🇸 🇦🇪 🌎
+Burgos, España · trabajando con equipos en ES · EAU · LATAM.
 
 ---
 
@@ -44,10 +44,10 @@ Frontend Developer & Project Manager en **[ITConsulting Global](https://www.itc.
 
 | Proyecto | Lo que hice | Stack |
 |---|---|---|
-| 🧴 **[Sophia Cosmetic](https://sophia-cosmetic.vercel.app)** | E-commerce con `+118%` conversión en checkout, `LCP 1.2s`, marketing self-served | Next.js · Sanity · Stripe |
-| 🏢 **[GDC 2026](https://gdc2026-two.vercel.app)** | Sitio corporativo bilingüe ES/EN con i18n por ruta | Next.js 16 · Tailwind v4 |
-| 🧱 **Drizoro** | Sitio corporativo química de la construcción, RSC + animaciones sutiles | Next.js · Tailwind · RSC |
-| 🌐 **[sergiorp.com](https://sergiorp.com)** | Mi portfolio: Apple-cristal, Three.js, Glass-S logo system | Next.js 16 · Three.js · Tailwind v4 |
+| **[Sophia Cosmetic](https://sophia-cosmetic.vercel.app)** | E-commerce con `+118%` conversión en checkout, `LCP 1.2s`, marketing self-served | Next.js · Sanity · Stripe |
+| **[GDC 2026](https://gdc2026-two.vercel.app)** | Sitio corporativo bilingüe ES/EN con i18n por ruta | Next.js 16 · Tailwind v4 |
+| **Drizoro** | Sitio corporativo química de la construcción, RSC + animaciones sutiles | Next.js · Tailwind · RSC |
+| **[sergiorp.com](https://sergiorp.com)** | Mi portfolio: Apple-cristal, Three.js, Glass-S logo system | Next.js 16 · Three.js · Tailwind v4 |
 
 ---
 
@@ -65,15 +65,10 @@ Countigo SRL           Frontend Developer          Jan 2020 — Dec 2022 · La H
 
 <div align="center">
 
-### GitHub Stats
+### GitHub activity
 
 <a href="https://github.com/sergioperez8042">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sergioperez8042&show_icons=true&theme=transparent&hide_border=true&title_color=c5cad4&icon_color=c5cad4&text_color=8a8a92&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioperez8042&layout=compact&theme=transparent&hide_border=true&title_color=c5cad4&text_color=8a8a92&langs_count=8" />
-</a>
-
-<a href="https://github.com/sergioperez8042">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioperez8042&theme=transparent&hide_border=true&ring=c5cad4&fire=c5cad4&currStreakLabel=c5cad4&sideLabels=8a8a92&dates=8a8a92" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergioperez8042&theme=transparent&hide_border=true&ring=c5cad4&fire=c5cad4&currStreakLabel=c5cad4&sideLabels=8a8a92&dates=8a8a92" alt="GitHub streak stats" />
 </a>
 
 </div>
